@@ -1,0 +1,22 @@
+.all {
+    border: 1px solid #ddd;
+    padding: 24px 24px 10px 20px;
+}
+
+.ticks {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    line-height: 12px;
+
+}
+
+h4{
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 14px;
+    margin-left: 14px;
+}
